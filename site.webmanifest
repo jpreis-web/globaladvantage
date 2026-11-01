@@ -1,0 +1,13 @@
+{
+  "name": "Global Advantage Partnership",
+  "short_name": "GAP",
+  "description": "Industrial Excellence. Delivered.",
+  "start_url": "/globaladvantage/",
+  "scope": "/globaladvantage/",
+  "display": "standalone",
+  "background_color": "#071829",
+  "theme_color": "#071829",
+  "icons": [
+    {"src": "assets/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}

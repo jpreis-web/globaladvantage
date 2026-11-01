@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jpreis-web.github.io/globaladvantage/sitemap.xml

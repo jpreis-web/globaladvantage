@@ -1,0 +1,67 @@
+{
+  "organization": "Global Advantage Partnership",
+  "tagline": "Industrial Excellence. Delivered.",
+  "siteUrl": "https://jpreis-web.github.io/globaladvantage/",
+  "email": "info@globaladvantageptp.com",
+  "services": [
+    {
+      "title": "All services",
+      "path": "services/"
+    },
+    {
+      "title": "Turnaround Excellence",
+      "path": "turnaround-excellence/"
+    },
+    {
+      "title": "CAPEX & Project Excellence",
+      "path": "capex-projects/"
+    },
+    {
+      "title": "Operational Excellence",
+      "path": "services/operational-excellence.html"
+    },
+    {
+      "title": "Maintenance & Asset Management",
+      "path": "services/maintenance-asset-management.html"
+    },
+    {
+      "title": "Business Excellence & Transformation",
+      "path": "services/business-excellence.html"
+    },
+    {
+      "title": "Innovation & Digitalization",
+      "path": "services/innovation-digitalization.html"
+    }
+  ],
+  "turnaroundPhilosophy": {
+    "name": "Risk-First Approach to Turnaround Management",
+    "signature": "A turnaround is an exercise into risk management.",
+    "goldenRules": [
+      "Anticipate",
+      "Anticipate",
+      "Anticipate"
+    ],
+    "successObjectives": [
+      "Safety",
+      "Quality",
+      "Duration",
+      "Cost"
+    ]
+  },
+  "knowledge": {
+    "videoSeries": {
+      "plannedEpisodes": 50,
+      "status": "in development"
+    },
+    "books": {
+      "planned": 3,
+      "status": "in development"
+    },
+    "podcasts": {
+      "status": "potential"
+    },
+    "articles": {
+      "status": "in development"
+    }
+  }
+}
